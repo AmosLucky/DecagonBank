@@ -1,0 +1,1 @@
+CREATE TABLE customers(id int PRIMARY KEY ,email varchar(300),password varchar(300),account_number varchar(300),name varchar(300),balance double)
